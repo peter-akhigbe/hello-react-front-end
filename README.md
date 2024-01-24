@@ -28,6 +28,7 @@
 **[Hello rails front-end]** Is an app that fetches and displays random greetings.
 
 ### API <a name="api"></a>
+
 - This app consumes this api from this [Rails project](https://github.com/peter-akhigbe/hello-rails-back-end)
 
 # 🛠 Built With <a name="built-with"></a>
@@ -72,7 +73,6 @@
 
 To get a local copy up and running, follow these steps.
 
-
 ### Setup
 
 Clone this repository to your desired folder:
@@ -89,7 +89,9 @@ Install this project with:
 ```
   npm install
 ```
+
 or
+
 ```
 yarn
 ```
@@ -101,7 +103,9 @@ To run the project, execute the following command:
 ```
   npm run dev
 ```
+
 or
+
 ```
   yarn dev
 ```
@@ -113,6 +117,7 @@ To run tests, run the following command:
 ```
   npx eslint "**/*.{js,jsx}"
 ```
+
 ```
   npx stylelint "**/*.{css,scss}"
 ```
@@ -124,8 +129,8 @@ To run tests, run the following command:
 ## 👥 Authors <a name="authors"></a>
 
 👤 **Author1**
- *Peter Akhigbe*
- 
+_Peter Akhigbe_
+
 - GitHub: [Peter Akhigbe](https://github.com/peter-akhigbe)
 - LinkedIn: [Peter Akhigbe](https://www.linkedin.com/in/peter-akhigbe)
 
@@ -161,7 +166,7 @@ If you like this project please show support by staring ⭐️.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-* I am grateful for microverse for the opprtunity to enroll in their curriculum.
+- I am grateful for microverse for the opprtunity to enroll in their curriculum.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
